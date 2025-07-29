@@ -1,3 +1,4 @@
 soy el codigo original del documento
 soy una modificacion en el repositorio local
 soy una modificacion en el repositorio remoto
+soy una moficicion desde otro equipo
